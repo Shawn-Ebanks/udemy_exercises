@@ -1,0 +1,9 @@
+body {
+  background-color: tomato;
+}
+div {
+  width: 400px;
+  height: 200px;
+  background-color: rgb(102, 255, 71);
+  border-radius: 10px;
+}
