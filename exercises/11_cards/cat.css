@@ -1,0 +1,22 @@
+div {
+  width: 200px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 42%;
+  display: inline-block;
+}
+.class1 {
+  background-color: red;
+}
+
+.class2 {
+  background-color: blue;
+}
+
+.class3 {
+  background-color: yellow;
+}
+
+.class4 {
+  background-color: green;
+}

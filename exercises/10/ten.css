@@ -1,0 +1,21 @@
+html {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+h1 {
+  text-shadow: 2px 5px 8px red;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.strike {
+  text-decoration: line-through;
+}
+p {
+  text-indent: 30px;
+}

@@ -17,3 +17,16 @@ div {
   box-sizing: border-box;
   background-image: url("../01/dbz.jpg");
 }
+a:link {
+  color: orange;
+}
+a:visited {
+  color: yellow;
+}
+
+a:hover {
+  color: green;
+}
+a:active {
+  color: blue;
+}
