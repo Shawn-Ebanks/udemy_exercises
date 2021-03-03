@@ -1,6 +1,13 @@
-body{
-    background: url(https://cache.desktopnexus.com/thumbseg/1113/1113579-bigthumbnail.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-  
+div {
+  height: 600px;
+  width: 800px;
+  border: 10px dotted red;
+  background: url(https://cache.desktopnexus.com/thumbseg/1113/1113579-bigthumbnail.jpg);
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-size: contain;
+  background-origin: content-box;
+  padding: 20px;
+  color: white;
+  background-color: grey;
+}
