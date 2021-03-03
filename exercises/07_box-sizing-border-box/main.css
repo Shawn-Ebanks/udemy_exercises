@@ -11,3 +11,7 @@ div {
 .nogrow {
   box-sizing: border-box;
 }
+
+img {
+  max-width: 400px;
+}
