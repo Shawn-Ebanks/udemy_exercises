@@ -1,9 +1,8 @@
 body {
   height: 100vh;
   font-size: 1.5rem;
-  /* width: 800px; */
-  /* border: 10px dotted red; */
   background: url(https://images.unsplash.com/photo-1534567153574-2b12153a87f0?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8em9vfGVufDB8fDB8&ixlib=rb-1.2.1&w=1000&q=80);
+  /* background: url(https://images.fineartamerica.com/images-medium-large-5/trees-in-bright-green-forest-in-spring-matthias-hauser.jpg); */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -11,7 +10,6 @@ body {
   /* background-origin: content-box; */
   /* padding: 20px; */
   color: white;
-  /* background-color: grey; */
   background-attachment: fixed;
 }
 h1 {
