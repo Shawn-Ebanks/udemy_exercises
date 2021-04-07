@@ -1,0 +1,12 @@
+h1 {
+  color: green;
+  font-family: sans-serif;
+}
+
+code {
+  color: red;
+  font-family: monospace;
+}
+.li2 code {
+  color: green;
+}
